@@ -1,4 +1,4 @@
-# A Presentation in Reveal.JS for presenting portfolio at FTI Consulting.
+# A Presentation in Reveal.JS for presenting portfolio at General Dynamics.
 
 
 
